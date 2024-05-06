@@ -6,7 +6,7 @@ NTIA's primary GitHub organization can be found at [NTIA GitHub Organization](ht
 
 ## For ISART 2024 Attendees
 
-This organization is the home of ISART 2024 Tutorial course materials. If you are an ISART 2024 attendee, **send your GitHub username to mhollingsworth@NTIA.gov** for access to the course materials and coding environment. Once we receive your email, we will confirm you are an ISART attendee and create your account.
+This organization is the home of ISART 2024 Tutorial course materials. If you are an ISART 2024 attendee, **send your GitHub username to mhollingsworth@NTIA.gov** to be invited as member of this GitHub organization. Membership will provide you access to the cloud coding environment used in this tutorial. Once we receive your email, we will confirm you are an ISART attendee and invite you to the organization.
 
 Continue to the [ISART 2024 course-materials repository](https://github.com/ISART-2024-tutorial/course-materials) for more instructions.
 
