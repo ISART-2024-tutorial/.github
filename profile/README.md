@@ -1,5 +1,7 @@
 # ISART 2024 Tutorial - GitHub Organization
 
+<img src="https://its.ntia.gov/media/eslp3cy2/2018isartlogo_only470.png" height=100 align="left">
+
 The [International Symposium on Advanced Radio Technologies (ISART)™](https://its.ntia.gov/isart/isart-home) is a U.S. government-sponsored conference hosted by the Institute for Telecommunication Sciences (ITS), the science and engineering laboratory of the National Telecommunications and Information Administration (NTIA). This GitHub organization exists to host materials for the ISART Tutorial – _Building and Evaluating a Statistical Propagation Model_.
 
 ## For ISART 2024 Attendees
