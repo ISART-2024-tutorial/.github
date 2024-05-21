@@ -6,7 +6,8 @@ The [International Symposium on Advanced Radio Technologies (ISART)™](https://
 
 If you are an ISART 2024 attendee and wish to work through the tutorial:
 
-**_Send your GitHub username to_ <mhollingsworth@NTIA.gov>**
+- **_Send your GitHub username to_ <mhollingsworth@NTIA.gov>**
+- If you do not have a GitHub account, you can [create one](https://github.com/signup) for free!
 
 Once your username is received, we will confirm you are an ISART attendee and invite you to this GitHub organization.
 Membership will provide you access to the cloud coding environment used in the tutorial.
