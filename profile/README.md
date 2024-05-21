@@ -1,6 +1,6 @@
 # ISART 2024 Tutorial - GitHub Organization
 
-The [International Symposium on Advanced Radio Technologies (ISART)](https://its.ntia.gov/isart/isart-home) is a conference hosted by the Institute for Telecommunication Sciences (ITS) part of the National Telecommunication and Information Administration (NTIA). 
+The [International Symposium on Advanced Radio Technologies (ISART)](https://its.ntia.gov/isart/isart-home) is a conference hosted by the Institute for Telecommunication Sciences (ITS), the laboratory part of the National Telecommunication and Information Administration (NTIA). 
 
 NTIA's primary GitHub organization can be found at [NTIA GitHub Organization](https://github.com/NTIA).
 
